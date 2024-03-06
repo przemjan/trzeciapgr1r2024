@@ -1,7 +1,5 @@
 package dodatki;
 
-
-
 public class Potega {
     public static void main(String[] args) {
 
